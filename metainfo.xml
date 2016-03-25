@@ -86,9 +86,6 @@
                         <package>
                             <name>python-pip</name>
                         </package>
-                        <package>
-                            <name>zeppelin</name>
-                        </package>
                     </packages>
                 </osSpecific>
 
